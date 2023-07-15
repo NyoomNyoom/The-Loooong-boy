@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "5aizYdxdFedxYt1bk/UVTdKt0B4odKFjJ+8UIK+lMRXd7YL/Kwa6fB5L28NtL57Dg8MUMY9cN0c/Tq+B/RLnIA==",
+  "dgSpecHash": "oknzYTVB1pcpLX6cqE79XkXgZgdAyD+0nA7KTCVADWooGhL+M3cVGUu7huX8hCDzbOrjHflfTe3Vby4Zhp+K4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jackson North\\source\\repos\\Loooong boy\\Loooong boy\\The-Loooong-boy\\LooongBoy\\LooongBoy\\LooongBoy.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jackson North\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\Jackson North\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Jackson North\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Jackson North\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
